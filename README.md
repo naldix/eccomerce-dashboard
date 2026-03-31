@@ -1,7 +1,5 @@
 # Ecommerce Dashboard
 
-# Dashboard de Vendas em Marketplace
-
 Dashboard de vendas para e-commerce desenvolvido em Power BI com análise completa de faturamento, produtos, marketplaces e marcas.
 
 ## Sobre o Projeto
